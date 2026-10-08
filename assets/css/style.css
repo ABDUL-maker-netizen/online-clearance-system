@@ -1,0 +1,62 @@
+
+body{
+    background:#f5f5f5;
+    font-family: Arial, sans-serif;
+}
+
+.navbar{
+    background:#0d6efd;
+}
+
+.navbar-brand,
+.nav-link{
+    color:white !important;
+}
+
+.card{
+    border:none;
+    border-radius:10px;
+}
+
+.dashboard-card{
+    padding:30px;
+    color:white;
+    border-radius:10px;
+}
+
+.bg-blue{
+    background:#0d6efd;
+}
+
+.bg-green{
+    background:#198754;
+}
+
+.bg-red{
+    background:#dc3545;
+}
+
+.bg-darkblue{
+    background:#001f3f;
+}
+
+.table{
+    background:white;
+}
+
+.progress{
+    height:30px;
+}
+
+.progress-bar{
+    font-size:16px;
+}
+
+.footer{
+    background:#212529;
+    color:white;
+    padding:20px;
+    text-align:center;
+    margin-top:40px;
+}
+
